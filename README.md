@@ -1,1 +1,1 @@
-# app-ads.txt
+# app-adss.txt
